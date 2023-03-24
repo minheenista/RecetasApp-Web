@@ -1,5 +1,5 @@
 <template>
   <div>
-    <NuxtWelcome />
+    puro pinche pio
   </div>
 </template>
